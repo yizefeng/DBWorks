@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/GeneratorApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/controller/SysGeneratorController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/dao/SysGeneratorDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/entity/ColumnEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/entity/TableEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/service/SysGeneratorService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/DateUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/GenUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/PageUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/Query.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/R.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/RRException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mytech/utils/RRExceptionHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/generator.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/template" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/views" charset="UTF-8" />
+  </component>
+</project>
